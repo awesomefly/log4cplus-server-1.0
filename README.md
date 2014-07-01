@@ -12,17 +12,20 @@ Getting started
 	or
         download by yourself from https://github.com/chenquan1988/log4cplus-server-1.0
 
+
 2. install
+
 	cd src
 	make     
 	cd ../bin
 	./restart.sh
 
-   depending on liblog4cplus-1.0 
+        depending on liblog4cplus-1.0 
 
 
 
 
 tips:
-   new log4cplus version have official server 
+   new log4cplus version have official server,
+   you can unzip log4cplus-1.1.2-rc2.zip, get it from log4cplus-1.1.2-rc2/loggingserver
    新版log4cplus已有官方的服务端程序，可以下载最新安装包获取
